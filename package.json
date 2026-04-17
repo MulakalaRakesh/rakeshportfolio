@@ -1,0 +1,23 @@
+{
+  "name": "rakeshportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "record-video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MulakalaRakesh/rakeshportfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MulakalaRakesh/rakeshportfolio/issues"
+  },
+  "homepage": "https://github.com/MulakalaRakesh/rakeshportfolio#readme",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}
