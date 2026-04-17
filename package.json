@@ -1,0 +1,21 @@
+{
+  "name": "rakesh-tile-animation",
+  "version": "1.0.0",
+  "description": "Cascading floor tile animation for Instagram Reels / YouTube Shorts",
+  "scripts": {
+    "start": "npx remotion studio",
+    "build": "npx remotion render TileFloor out/tile-animation-reels.mp4 --codec=h264",
+    "render": "npx remotion render TileFloor out/tile-animation-reels.mp4 --codec=h264"
+  },
+  "dependencies": {
+    "remotion": "^4.0.0",
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
